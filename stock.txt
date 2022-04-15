@@ -1,0 +1,115 @@
+19
+Data Structures
+Alice in Wonderland
+Animal Farm
+Anna Karenina
+At Grave's End
+Babel
+Barney's Version
+Sociology
+Beach House
+Bearwalker
+Blue Moon
+Cadillac Desert
+California
+Call for the Dead
+Computer Networks
+Damnation Alley
+Dances with Love
+Dark Things
+Deep Work
+Data Structures#Peter Brass
+Alice in Wonderland#Jane Carruth
+Animal Farm#George Orwell
+Anna Karenina#Leo Tolstoy
+At Grave's End#Jeaniene Frost
+Babel#Samuel R. Delany
+Barney's Version#Mordecai Richler
+Sociology#Max Weber
+Beach House#James Patterson
+Bearwalker#Joseph Bruchac
+Blue Moon#Alyson Noel
+Cadillac Desert#Marc Resiner
+California#Edan Lepucki
+Call for the Dead#John le Carré
+Computer Networks#Larry L. Peterson
+Damnation Alley#Roger Zelazny
+Dances with Love#Michael Ernest Sweet
+Dark Things#August Derleth
+Deep Work#Cal NewPort
+Data Structures#1000
+Alice in Wonderland#700
+Animal Farm#2000
+Anna Karenina#900
+At Grave's End#600
+Babel#500
+Barney's Version#300
+Sociology#550
+Beach House#340
+Bearwalker#430
+Blue Moon#320
+Cadillac Desert#440
+California#670
+Call for the Dead#400
+Computer Networks#300
+Damnation Alley#550
+Dances with Love#560
+Dark Things#740
+Deep Work#650
+Data Structures#20
+Alice in Wonderland#30
+Animal Farm#24
+Anna Karenina#34
+At Grave's End#55
+Babel#22
+Barney's Version#10
+Sociology#44
+Beach House#34
+Bearwalker#23
+Blue Moon#45
+Cadillac Desert#18
+California#45
+Call for the Dead#55
+Computer Networks#23
+Damnation Alley#55
+Dances with Love#12
+Dark Things#41
+Deep Work#13
+Data Structures#1/1/2011
+Alice in Wonderland#2/3/2002
+Animal Farm#4/2/1999
+Anna Karenina#5/7/2009
+At Grave's End#3/10/1998
+Babel#4/12/2003
+Barney's Version#3/10/2007
+Sociology#8/11/1997
+Beach House#19/2/2000
+Bearwalker#12/12/2012
+Blue Moon#13/11/2013
+Cadillac Desert#4/7/2007
+California#5/8/2011
+Call for the Dead#2/9/1962
+Computer Networks#3/8/1979
+Damnation Alley#4/9/1988
+Dances with Love#9/12/1989
+Dark Things#5/7/2002
+Deep Work#4/6/2003
+Data Structures#Science
+Alice in Wonderland#Fiction
+Animal Farm#Comedy
+Anna Karenina#History
+At Grave's End#Horror
+Barney's Version#Fiction
+Sociology#Science
+Beach House#Comedy
+Bearwalker#Fiction
+Blue Moon#Fiction
+Cadillac Desert#History
+California#History
+Call for the Dead#Horror
+Computer Networks#Science
+Damnation Alley#History
+Dances with Love#Fiction
+Dark Things#Horror
+Deep Work#Science
+Babel#Fiction
