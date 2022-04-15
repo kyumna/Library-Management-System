@@ -1,2 +1,3 @@
 # Library-Management-System
 Python based application to manage a library 
+The purpose of this project entitled as “ONLINE LIBRARY MANAGEMENT SYSTEM” is to computerize the front based management of online library to develop CLI based application on “PYTHON” which is user friendly, simple, fast and cost effective for personal use. Library Management System is the simple shopping solution it’s a featured website that bends over backwards to give us the flexibility we need to run our Library. The basic concept of the application is to allow the customer to shop virtually using the internet and allow customers to borrow the book and articles of their desire from the library.
